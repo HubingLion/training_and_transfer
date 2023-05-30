@@ -1,2 +1,2 @@
 # training_and_transfer
-# The code will be available soon.
+# The code and data will be available soon.
