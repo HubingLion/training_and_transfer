@@ -1,2 +1,2 @@
-- 💬 Here is the code and data for the paper submitted to the "Automation in Construction" journal.
+- 💬 Here is the code and data for the paper submitted to the "Engineering Applications of Artificial Intelligence" journal.
 - ⚡ The code and data will be made available upon paper acceptance. Please stay tuned for further updates!
